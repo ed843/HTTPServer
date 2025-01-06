@@ -6,8 +6,8 @@ This project is a lightweight HTTP server implemented in Java. It is designed to
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/ed843/HTTPServer.git
+   cd HTTPServer
    ```
 
 2. Ensure you have [Maven](https://maven.apache.org/) installed.
