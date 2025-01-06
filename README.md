@@ -17,7 +17,7 @@ This project is a lightweight HTTP server implemented in Java. It is designed to
    mvn exec:java
    ```
 
-The server will start and listen for incoming HTTP requests. By default, it runs on `http://localhost:8080` (or the configured port in the `application.properties` file).
+The server will start and listen for incoming HTTP requests. By default, it runs on `http://localhost:80`.
 
 ## Feedback
 
