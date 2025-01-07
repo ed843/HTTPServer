@@ -21,6 +21,6 @@ The server will start and listen for incoming HTTP requests. By default, it runs
 
 ## Feedback
 
-Your feedback is invaluable! Please share your thoughts, suggestions, or issues by opening an [issue](https://github.com/<your-repo>/issues) or contributing via a pull request.
+Your feedback is invaluable! Please share your thoughts, suggestions, or issues by opening an [issue](https://github.com/ed843/HTTPServer/issues) or contributing via a pull request.
 
 Thank you for checking out this project!
